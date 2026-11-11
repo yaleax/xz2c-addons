@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "release_tag": "addons-20261107",
+  "addons": [
+    {
+      "id": "gapps",
+      "name": "Google services",
+      "name_zh": "Google 服務",
+      "version": "MindTheGapps 15 (20260912)",
+      "versionCode": 20260912,
+      "file": "MindTheGapps-15-arm64-XZ2C-signed.zip",
+      "size": 189345396,
+      "sha256": "868a8c93cdb44a23ea3bbd668b8d270942f07950934de90634cfa17555020fce",
+      "detect_package": "com.google.android.gms",
+      "url": "https://github.com/yaleax/xz2c-addons/releases/download/addons-20261107/MindTheGapps-15-arm64-XZ2C-signed.zip"
+    },
+    {
+      "id": "sony",
+      "name": "Sony services",
+      "name_zh": "Sony 服務",
+      "version": "20261107",
+      "versionCode": 20261107,
+      "file": "XZ2C-SonyApps-20261107.zip",
+      "size": 37783567,
+      "sha256": "130122168d79080f812f043456e21c68fa3e57c84af99bb192d053e3695e35c3",
+      "detect_package": "com.sonyericsson.album",
+      "url": "https://github.com/yaleax/xz2c-addons/releases/download/addons-20261107/XZ2C-SonyApps-20261107.zip"
+    },
+    {
+      "id": "compat",
+      "name": "Service compatibility",
+      "name_zh": "服务兼容性",
+      "version": "0.1.6-p3",
+      "versionCode": 10,
+      "file": "XZ2C-ServiceCompat-0.1.6-p3.zip",
+      "size": 77660373,
+      "sha256": "4f38e9d2768500b8e43eec83986ffd60d808c460e33143ea747861467b14b7f0",
+      "detect_package": "com.xz1c.compatibility",
+      "url": "https://github.com/yaleax/xz2c-addons/releases/download/addons-compat-0.1.6-p3/XZ2C-ServiceCompat-0.1.6-p3.zip"
+    }
+  ],
+  "uninstallers": {}
+}
